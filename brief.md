@@ -8,7 +8,7 @@ Semantic Versioning (SemVer) uses a MAJOR.MINOR.PATCH format to communicate chan
 ## AI
 Retrieval-Augmented Generation (RAG) combines pre-trained language models with external knowledge retrieval. Instead of relying solely on parametric memory, RAG queries a vetted vector database to retrieve contextually relevant document chunks before generating a response. This process significantly reduces hallucinations and ensures accurate, up-to-date responses in sensitive domains like public administration and cybersecurity.
 ## Mobile
-
+App Transport Security (ATS) in iOS and Network Security Configuration in Android enforce secure data transmission by requiring all HTTP traffic to use HTTPS with strong TLS protocols. This prevents man-in-the-middle attacks, ensures privacy for citizen interactions, and establishes strict cryptographic boundaries for mobile AI client applications.
 ## Networking
 
 ## Cybersecurity
