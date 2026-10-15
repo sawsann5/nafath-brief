@@ -6,7 +6,7 @@ This brief explores the integration of six technical domains to deploy a trustwo
 ## Software
 Semantic Versioning (SemVer) uses a MAJOR.MINOR.PATCH format to communicate changes in software updates. MAJOR increments indicate breaking API changes, MINOR adds backward-compatible features, and PATCH delivers backward-compatible bug fixes. Adopting SemVer provides predictable dependency management and system stability across public digital services.
 ## AI
-
+Retrieval-Augmented Generation (RAG) combines pre-trained language models with external knowledge retrieval. Instead of relying solely on parametric memory, RAG queries a vetted vector database to retrieve contextually relevant document chunks before generating a response. This process significantly reduces hallucinations and ensures accurate, up-to-date responses in sensitive domains like public administration and cybersecurity.
 ## Mobile
 
 ## Networking
