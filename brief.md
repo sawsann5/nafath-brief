@@ -16,5 +16,6 @@ Prompt Injection attacks pose a critical threat to AI chat assistants by attempt
 ## Data
 Data governance defines policies, ownership, and audit trails to maintain data accuracy, consistency, and compliance. Proper governance prevents training data pollution, ensures proper privacy controls, and establishes clear metadata management across government databases.
 ## Misconception in My Track
-
+A common misconception in cybersecurity is that firewalls and perimeter defenses are sufficient to secure modern applications. In reality, identity-centric controls, zero-trust architecture, and continuous monitoring are necessary to mitigate insider threats and advanced persistent threats (APTs).
 ## Open Question
+How can zero-trust architectures be optimized for real-time mobile AI applications without introducing unacceptable latency for citizen end-users?
