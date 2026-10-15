@@ -12,7 +12,7 @@ App Transport Security (ATS) in iOS and Network Security Configuration in Androi
 ## Networking
 IPv6 transition provides an exponentially larger address space, enhanced packet header efficiency, and built-in IPsec support for native end-to-end encryption. In large-scale public sector deployments, IPv6 eliminates the need for Network Address Translation (NAT) hacks, improves routing performance, and ensures scalable, secure connectivity for millions of concurrent IoT and mobile AI clients.
 ## Cybersecurity
-
+Prompt Injection attacks pose a critical threat to AI chat assistants by attempting to bypass system instructions and alter behavior. Mitigating this risk requires strict input sanitization, dynamic output filtering, and robust system prompt architecture that separates untrusted user inputs from system-level parameters. Implementing these boundary controls ensures system integrity and prevents unauthorized data exposure.
 ## Data
 
 ## Misconception in My Track
