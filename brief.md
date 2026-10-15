@@ -14,7 +14,7 @@ IPv6 transition provides an exponentially larger address space, enhanced packet 
 ## Cybersecurity
 Prompt Injection attacks pose a critical threat to AI chat assistants by attempting to bypass system instructions and alter behavior. Mitigating this risk requires strict input sanitization, dynamic output filtering, and robust system prompt architecture that separates untrusted user inputs from system-level parameters. Implementing these boundary controls ensures system integrity and prevents unauthorized data exposure.
 ## Data
-
+Data governance defines policies, ownership, and audit trails to maintain data accuracy, consistency, and compliance. Proper governance prevents training data pollution, ensures proper privacy controls, and establishes clear metadata management across government databases.
 ## Misconception in My Track
 
 ## Open Question
