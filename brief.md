@@ -10,7 +10,7 @@ Retrieval-Augmented Generation (RAG) combines pre-trained language models with e
 ## Mobile
 App Transport Security (ATS) in iOS and Network Security Configuration in Android enforce secure data transmission by requiring all HTTP traffic to use HTTPS with strong TLS protocols. This prevents man-in-the-middle attacks, ensures privacy for citizen interactions, and establishes strict cryptographic boundaries for mobile AI client applications.
 ## Networking
-
+IPv6 transition provides an exponentially larger address space, enhanced packet header efficiency, and built-in IPsec support for native end-to-end encryption. In large-scale public sector deployments, IPv6 eliminates the need for Network Address Translation (NAT) hacks, improves routing performance, and ensures scalable, secure connectivity for millions of concurrent IoT and mobile AI clients.
 ## Cybersecurity
 
 ## Data
